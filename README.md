@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+My name is Troy! I'm very new to coding.
